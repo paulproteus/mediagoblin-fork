@@ -4,7 +4,8 @@
   "author": "Asheesh Laroia <asheesh@asheesh.org>",
   "dependencies": {
     "jquery": ">= 1.7.1",
-    "video.js": "== 4.2.1"
+    "video.js": "== 4.2.1",
+    "pdfjs-dist": ">= 0.7.169"
   }
 }
 
